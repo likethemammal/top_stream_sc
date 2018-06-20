@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "911986669524",
+    "firebase_url": "https://topstreamfirebase.firebaseio.com",
+    "project_id": "topstreamfirebase",
+    "storage_bucket": "topstreamfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911986669524:android:c850720a6c4de2dc",
+        "android_client_info": {
+          "package_name": "com.topstream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911986669524-jbefl2ge9h1bbp70tmhq695144beqk54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.topstream",
+            "certificate_hash": "b7d20c425ce5bc999e4abcf8fd972c7d9081906c"
+          }
+        },
+        {
+          "client_id": "911986669524-o6o7hu4dc8v7mh6lh612iii4f6cuncut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.topstream",
+            "certificate_hash": "34aff7a437319de1d0ff255fee397223f331c2d3"
+          }
+        },
+        {
+          "client_id": "911986669524-jv2f0j54i9rqphd6sgrinvkf2m52thq6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "911986669524-jv2f0j54i9rqphd6sgrinvkf2m52thq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZHiVzHyOTUr1ibdZwBPByqr3BvVg1b7w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911986669524-jv2f0j54i9rqphd6sgrinvkf2m52thq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
